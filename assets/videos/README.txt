@@ -1,0 +1,1 @@
+Taruh file MP4 di folder ini, lalu gunakan path relatif seperti assets/videos/proses-potong.mp4 pada formulir admin.
